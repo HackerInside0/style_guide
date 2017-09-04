@@ -8,7 +8,8 @@ If something is missing i will add it later.
 ## Adopted standards ##
 CHANGELOG: [![Keep a Changelog specification badge](https://img.shields.io/badge/Keep%20a%20Changelog%20Specification-1.0.0-orange.svg)](http://keepachangelog.com)  
 Versioning: [![Semantic Versioning specification badge](https://img.shields.io/badge/Semantic%20Versioning%20Specification-2.0.0-orange.svg)](http://semver.org)  
-Time and date: [OSI / ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
+Time and date: [OSI / ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)  
+Git Workflow: [git-flow](http://nvie.com/posts/a-successful-git-branching-model/)  
 
 ## Places where i take some ideas ##
 
